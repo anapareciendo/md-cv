@@ -1,13 +1,9 @@
 
- <img style="float: left; padding-right:20px;" width="250" height="180" src="">
+
+<img style="float: left; padding:10px;" width="250" height="260" src="app://local/Users/anaaparicio/Desktop/md-cv/images/leire_img.jpg">
 
 ------------------------------------------------------------
-
 # Leire Etxebarria Pijoán
-
-
-------------------------------------------------------------
-
 ## Datos personales
 
 - Nombre: Leire Etxebarria Pijoán
