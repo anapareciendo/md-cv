@@ -1,18 +1,20 @@
-
- <img style="float: left; padding-right:20px;" width="250" height="180" src="C:\Users\minia\Documents\cv\cv\images\photo.png">
+<div style="float: right; padding:60px;" >
+<img width="190" height="240" src="app://local/Users/anaaparicio/Desktop/md-cv/images/ana_img.png" >
+</div>
 
 ------------------------------------------------------------
 
 # QA Engineer
 
-Apasionada por el mundo del software, siempre con ganas de aprender y continuar explorando este maravilloso mundo en equipo.
+Apasionada por el mundo del software, siempre con ganas de aprender y continuar explorando este maravilloso mundo.
+Actualmente estoy interesada en todo el universo DevOps y QAOps. Asi como en fortalecer y mejorar mis capacidades de liderazgo y trabajo en equipo.
 
 
 ------------------------------------------------------------
 
 ## Datos personales
 
-- Nombre: Ana Rosa Aparicio Ramos
+- Nombre: Ana Aparicio Ramos
 - Fecha de nacimiento: 04/09/1991
 - Teléfono: +34 617041083
 - Email: ana.apariciora@gmail.com
@@ -21,9 +23,21 @@ Apasionada por el mundo del software, siempre con ganas de aprender y continuar 
 ------------------------------------------------------------
 
 ## Experiencia
+### QA Enginner
+Empresa: Frenetic
+octubre 2021 - actualemente
+Gestión del equipo de QA, asegurar la calidad tanto del producto como del proyecto. Dar soporte al equipo de Producto con la redacción de Requisitos y seguimiento de Epicas/Historias de usuario.
+- Repositorio: Git/Gitlab 
+- Pruebas automatizadas: Python (Pytest and Seleniumbase) - Pycharm - Flake8
+- Pruebas manuales: TestRail  
+- Pruebas de servicio: Postman
+- Gestion de issues: Gitlab
+- CI/CD: Docker, Gitlab pipeline
+- Gestión de conocimiento: Obsidian, Sublime
+
 ### QAOps Engineer
 Empresa: Infomed Software S.L - Henry Schein ONE
-junio 2021 - Actualmente
+junio 2021 - octubre 20221
 - Gestión equipo transversal asegurando la calidad en varios proyectos web  
 - Gestión de tareas: JIRA  
 - Repositorio: Git y Gitlab (CI/CD)  
@@ -32,7 +46,7 @@ junio 2021 - Actualmente
 - Pruebas de servicio e integración: Postman  
 - Pruebas de código (estáticas): SonarQube
 - Pruebas manuales: TestLink
-- Gestión de la información: Obsidian
+- Gestión de conocimiento: Obsidian
 
 ### QA Engineer
 Empresa: ATSistemas. Jerez de la Frontera, Cádiz
@@ -46,7 +60,7 @@ Herramientas:
 - Pruebas de código (estáticas): SonarQube
 - Pruebas sobre Kubernetes: Hadolint, Trivy y Terratest
 
-### Junio Software Developer
+### Junior Software Developer
 Empresa: ATsistemas. Jerez de la Frontera, Cádiz
 	junio 2018 - febrero 2021 (9 meses)
 Desarrollo con Java8 y JavaScript. 
