@@ -31,7 +31,7 @@
 
 ## Profesional experience - English area
 ### Eliot School - English teacher
-* (Mungia, Bizkaia) -  [09/2021-present]
+* (Mungia, Bizkaia) -  [09/2021-06/2022]
 
 
 > **Tasks:** Cambridge exams preparation, language teaching and parents’ assessment.

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CVAnaAparicio.md",
-            "mode": "preview"
+            "file": "CVLeireEtxebarria_ES.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CVAnaAparicio.md",
+                "file": "CVLeireEtxebarria_ES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,10 @@
   },
   "active": "7d24c0b3769bca23",
   "lastOpenFiles": [
-    "CVAnaAparicio.md",
+    "CVLeireEtxebarria_ES.md",
     "CVLeireEtxebarria_EN.md",
+    "README.md",
+    "CVAnaAparicio.md",
     "images/ana_img.png",
     "images/photo.png",
     "images/leire_img.jpg",

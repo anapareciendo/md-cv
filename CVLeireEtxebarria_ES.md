@@ -30,7 +30,7 @@ Erasmus +
 
 ## Experiencia laboral - Área de enseñanza de inglés
 ### Eliot School - Profesora de inglés
-* (Mungia, Bizkaia) -  [09/2021-actualidad]
+* (Mungia, Bizkaia) -  [09/2021-06/2022]
 
 
 > **Cometidos:** Preparación a exámenes oficiales de Cambridge, desarrollo programas de aprendizaje de diversos niveles y edades, tutorías con los padres y las madres, seguimientos de los alumnos y las alumnas.
