@@ -18,7 +18,7 @@
 ## Higher education
 ### Graduate in Social Education
 * Basque Country University (UPV), Leioa [2016-2020]
-* Studied 5 month at Absalon University, Denmarc
+* Studied 5 months at Absalon University, Denmark
 
 ## Complementary education
 ### Family mediator and gender violence technician

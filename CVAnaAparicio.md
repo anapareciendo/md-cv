@@ -26,13 +26,14 @@ Actualmente estoy interesada en todo el universo DevOps y QAOps. Asi como en for
 ### QA Enginner
 Empresa: Frenetic
 octubre 2021 - actualemente
-Gestión del equipo de QA, asegurar la calidad tanto del producto como del proyecto. Dar soporte al equipo de Producto con la redacción de Requisitos y seguimiento de Epicas/Historias de usuario.
+Gestión del equipo de QA, asegurar la calidad tanto del producto como del proyecto. Dar soporte al equipo de Producto con el diseño de Requisitos y seguimiento de Epicas/Historias de usuario.
 - Repositorio: Git/Gitlab 
-- Pruebas automatizadas: Python (Pytest and Seleniumbase) - Pycharm - Flake8
-- Pruebas manuales: TestRail  
+- Pruebas automatizadas: Cypress
+- Pruebas manuales: TestRail
 - Pruebas de servicio: Postman
+- Pruebas de rendimiento: k6
 - Gestion de issues: Gitlab
-- CI/CD: Docker, Gitlab pipeline
+- CI/CD: Gitlab runners
 - Gestión de conocimiento: Obsidian, Sublime
 
 ### QAOps Engineer
@@ -40,7 +41,7 @@ Empresa: Infomed Software S.L - Henry Schein ONE
 junio 2021 - octubre 20221
 - Gestión equipo transversal asegurando la calidad en varios proyectos web  
 - Gestión de tareas: JIRA  
-- Repositorio: Git y Gitlab (CI/CD)  
+- Repositorio: Git y Gitlab (CI/CD)
 - Pruebas automatizadas E2E: Cypress  
 - Pruebas de rendimiento (carga, estrés y configuración): k6 y Jmeter  
 - Pruebas de servicio e integración: Postman  
